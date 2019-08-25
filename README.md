@@ -35,6 +35,12 @@
     Gradle
     Genymotion
 
+## 查看运行必备环境版本 ##
+
+    node -v
+    yarn -v
+    gradle -v
+
 ## 安装步骤 ##
 
 	cd TescoApp      // 进入模板目录
